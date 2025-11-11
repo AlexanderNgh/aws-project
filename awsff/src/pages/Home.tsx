@@ -1,8 +1,4 @@
-
-import './App.css'
-
-
-function App() {
+function Home() {
 
   return (
     <>
@@ -11,7 +7,7 @@ function App() {
           hello
         </div>
 
-                <div className='w-[100px] bg-red-50'>
+                <div className='w-[100px] bg-blue-50'>
           hello
         </div>
 
@@ -23,4 +19,4 @@ function App() {
   )
 }
 
-export default App
+export default Home
